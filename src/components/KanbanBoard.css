@@ -1,0 +1,23 @@
+/* components/KanbanBoard.css */
+  .kanban-board {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+
+  }
+  
+  .ticket-group {
+    width: 30%;
+    /* border: 1px solid #ccc; */
+    padding: 10px;
+    margin: 10px;
+  }
+
+  .margin{
+    margin-left: 20px;
+    margin-bottom: 15px;
+  }
+
+  /* .checkbox{
+    margin-right: 10px;
+  } */
